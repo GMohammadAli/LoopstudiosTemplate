@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This Template was developed using TailwindCSS.
+This Template was developed using TailwindCSS and hosted on Netlify : https://elaborate-frangipane-9e7dc4.netlify.app.
 
 ## Available Scripts
 
