@@ -1,4 +1,3 @@
-/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 
 function Footer() {
@@ -9,19 +8,19 @@ function Footer() {
           <img src="./images/logo.svg" alt="" className="w-36" />
           <ul className="flex flex-col md:flex-row justify-center text-sm md:text-base font-semibold space-y-5 space-x-0 md:space-y-0 md:space-x-7">
             <li>
-              <a href="">About</a>
+              <a href="#about">About</a>
             </li>
             <li>
-              <a href="">Careers</a>
+              <a href="#about">Careers</a>
             </li>
             <li>
-              <a href="">Events</a>
+              <a href="#about">Events</a>
             </li>
             <li>
-              <a href="">Products</a>
+              <a href="#about">Products</a>
             </li>
             <li>
-              <a href="">Support</a>
+              <a href="#about">Support</a>
             </li>
           </ul>
         </div>
@@ -39,7 +38,7 @@ function Footer() {
             Challenge by
             <a
               className="font-bold"
-              href="https://www.frontendmentor.io?ref=challenge" 
+              href="https://www.frontendmentor.io?ref=challenge"
             >
               {" "}
               Frontend Mentor
