@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from 'react'
 
 function Footer() {
@@ -38,8 +39,7 @@ function Footer() {
             Challenge by
             <a
               className="font-bold"
-              href="https://www.frontendmentor.io?ref=challenge"
-              target="_blank"
+              href="https://www.frontendmentor.io?ref=challenge" 
             >
               {" "}
               Frontend Mentor
@@ -48,7 +48,6 @@ function Footer() {
             <a
               className="font-bold"
               href="https://github.com/GMohammadAli/LoopstudiosTemplate"
-              target="_blank"
             >
               {" "}
               Gulam Mohammad Ali
